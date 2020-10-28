@@ -1,7 +1,7 @@
 {
     "Author": "Tino Donderwinkel",
     "ContentSize": 9852,
-    "ContentUrl": "https://raw.githubusercontent.com/azureautomation/stop-azure-vms-in-the-order-you-want-using-tiers./master/Stop-AllVMs.ps1",
+    "ContentUrl": "https://raw.githubusercontent.com/azureautomation/stop-azure-vms-in-the-order-you-want-using-tiers/master/Stop-AllVMs.ps1",
     "DownloadCount": 889,
     "Id": "Stop-Azure-VMs-in-the-38d4e214",
     "IsFederated": false,
@@ -15,6 +15,6 @@
     "Summary": "This runbook stops all VM's in a subscription and allows you to specify the preferred order to stop Azure Virtual Machines.This script uses either certificate-based authentication to connect to Azure, which could be considered \"depricated\",using the $AzureConnectionName par",
     "Title": "Stop Azure VMs in the order you want using tiers.",
     "UpdatedDate": "2015-4-28T00:00:00",
-    "Url": "https://github.com/azureautomation/stop-azure-vms-in-the-order-you-want-using-tiers.",
+    "Url": "https://github.com/azureautomation/stop-azure-vms-in-the-order-you-want-using-tiers",
     "UserTags": "Automation, Runbook, Windows Azure Virtual Machines"
 }
